@@ -22,7 +22,7 @@ _this is italics text_
 1. first point
 2. second point
 
-[Click me](www.google.com)
+[Click me](https://www.google.com)
 
 ![cute cat](https://i.ytimg.com/vi/tntOCGkgt98/maxresdefault.jpg)
 
